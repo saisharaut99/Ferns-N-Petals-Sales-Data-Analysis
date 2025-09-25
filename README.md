@@ -41,9 +41,9 @@ This project analyzes the sales data of Ferns N Petals (FNP) to extract meaningf
 
 # *📸 Dashboard Snapshot*
 
-![SalesOverview](FNP Dashboard.png)
+![SalesOverview](FNPDashboard.png)
 
-![SalesOverview](FNP Analysis.png)
+![SalesOverview](FNPAnalysis.png)
 
 
 
